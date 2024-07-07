@@ -16,6 +16,8 @@ This repository contains the implementation of a Support Vector Machine (SVM) cl
 
 Support Vector Machine (SVM) is a supervised machine learning algorithm that can be used for both classification and regression tasks. In this project, we use SVM to classify different types of Iris flowers based on their features.
 
+![SVM Classification](img/Thumbnail.jpeg)
+
 ## Dataset
 
 The Iris dataset is a classic dataset in machine learning, consisting of 150 samples of iris flowers with 4 features each: sepal length, sepal width, petal length, and petal width. The dataset contains three classes, each representing a different type of iris flower: setosa, versicolor, and virginica.
